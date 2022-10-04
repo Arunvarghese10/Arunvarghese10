@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+👋 Hi, I’m Arun Varghese
+👀 I’m interested in Data based analysis, modelling and predictions.
+👨🏻‍💻 I’m currently learning Data Science & Engineering (Python, EDA, Stats for ML, Machine Learnings, SLR, SLC, USL and SQL)
+📫 How to reach me ... www.linkedin.com/in/arun-varghese-0a811b1a6
+📗 Currently a student at Great Learning
+💻 Aspiring Data Scientist
+
 <!--
 **Arunvarghese10/Arunvarghese10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
