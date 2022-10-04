@@ -1,5 +1,5 @@
 
-👋 Hello there, I’m Arun Varghese
+👋 Hello there, myself Arun Varghese
 
 👀 I’m interested in Data based analysis, modelling and predictions.
 
